@@ -4,7 +4,12 @@
 
 ## 环境安装
 ```bash
-pip install icu-sepsis
+pip install icu-sepsis pip install stable-baselines3[extra]
+```
+
+## 测试
+```python
+python test.py
 ```
 
 然后执行
