@@ -17,3 +17,4 @@ python test.py
 python ppo.py
 ```
 ![ppo运行时的截图](ppo.png)
+![ppo效果](Figure_ppo.png)
