@@ -16,3 +16,4 @@ python test.py
 ```python
 python ppo.py
 ```
+![ppo运行时的截图](ppo.png)
