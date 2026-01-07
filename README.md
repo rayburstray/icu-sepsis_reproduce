@@ -4,7 +4,7 @@
 
 ## 环境安装
 ```bash
-pip install icu-sepsis pip install stable-baselines3[extra]
+pip install icu-sepsis stable-baselines3[extra]
 ```
 
 ## 测试
