@@ -2,6 +2,8 @@
 
 这是我找到的一个rl+医学的环境，之前和老师交流的时候发现这种环境很少几乎没有，现在好不容易找到一个，感觉可以上手来玩玩
 
+原论文Github链接：https://github.com/icu-sepsis/icu-sepsis
+
 ## 环境安装
 ```bash
 pip install icu-sepsis stable-baselines3[extra]
